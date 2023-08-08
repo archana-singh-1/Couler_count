@@ -1,0 +1,12 @@
+.color_box{
+    border:solid 1px red;
+    height:500px;
+    width:auto;
+}
+.box{
+    border:solid 1px red;
+    height:300px;
+    width:400px;
+    margin:auto;
+    
+}
