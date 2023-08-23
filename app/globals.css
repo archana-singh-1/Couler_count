@@ -1,12 +1,69 @@
 .color_box{
-    border:solid 1px red;
-    height:500px;
-    width:auto;
-}
-.box{
-    border:solid 1px red;
     height:300px;
     width:400px;
+    border:solid 2px black;
     margin:auto;
-    
 }
+.text_color{
+    height:200px;
+    width:800px;
+    border:solid 2px black;
+    margin:auto;
+}
+.text_button{
+    height:200px;
+    width:800px;
+    border:solid 2px black;
+    margin:auto;
+}
+.color_button{
+    height:97px;
+    width:396px;
+    border:solid 2px black;
+    float:left;
+}
+button{
+    height:40px;
+    width:150px;
+    margin-left:20px;
+    margin-top:10px;
+    float:left;
+}
+.Red{
+    height:70px;
+    width:90px;
+    border:solid 2px black;
+    margin-left:200px;
+    margin-top:5px;
+    background:red;
+}
+.Blue{
+    height:70px;
+    width:90px;
+    border:solid 2px black;
+    margin-top:20px;
+    margin-left:200px;
+    background:blue;
+}
+.Yellow{
+    height:70px;
+    width:90px;
+    border:solid 2px black;
+    float:right;
+    margin-top:-168px;
+    margin-right:110px;
+    background:yellow;
+}
+.Green{
+    height:70px;
+    width:90px;
+    border:solid 2px black;
+    float:right;
+    margin-top:-60px;
+    margin-right:110px;
+    background:green;
+}
+p{
+    margin-left:10px;
+}
+
